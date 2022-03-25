@@ -1,2 +1,1 @@
-# alx-git-practice
-for personal practice
+Practice Readme
